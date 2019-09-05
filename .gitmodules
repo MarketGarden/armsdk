@@ -1,12 +1,14 @@
 [submodule "armory"]
 	path = armory
 	url = https://github.com/MarketGarden/armory
+	branch = collision-filter-mask
 [submodule "iron"]
 	path = iron
 	url = https://github.com/armory3d/iron
 [submodule "lib/haxebullet"]
 	path = lib/haxebullet
 	url = https://github.com/MarketGarden/haxebullet
+	branch = collision-filter-mask
 [submodule "lib/haxerecast"]
 	path = lib/haxerecast
 	url = https://github.com/armory3d/haxerecast
