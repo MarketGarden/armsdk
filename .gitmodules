@@ -1,6 +1,6 @@
 [submodule "armory"]
 	path = armory
-	url = https://github.com/armory3d/armory
+	url = https://github.com/MarketGarden/armory
 [submodule "iron"]
 	path = iron
 	url = https://github.com/armory3d/iron
