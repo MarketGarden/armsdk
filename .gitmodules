@@ -6,7 +6,7 @@
 	url = https://github.com/armory3d/iron
 [submodule "lib/haxebullet"]
 	path = lib/haxebullet
-	url = https://github.com/armory3d/haxebullet
+	url = https://github.com/MarketGarden/haxebullet
 [submodule "lib/haxerecast"]
 	path = lib/haxerecast
 	url = https://github.com/armory3d/haxerecast
